@@ -21,3 +21,31 @@
 | [SEQ3000](#seq3000) | COBOL & JCL | Maintains employee records by processing transactions for add, update, and delete operations | [SEQ3000](https://github.com/Dom987554/COBOL-Chapter13-Assignment)|
 
 ---
+
+## CALC2000
+
+🔙 [Back to TOC](#-table-of-contents)
+
+## UTIL2000
+
+🔙 [Back to TOC](#-table-of-contents)
+
+## RPT2000
+
+🔙 [Back to TOC](#-table-of-contents)
+
+## RPT3000
+
+🔙 [Back to TOC](#-table-of-contents)
+
+## RPT5000
+
+🔙 [Back to TOC](#-table-of-contents)
+
+## RPT6000
+
+🔙 [Back to TOC](#-table-of-contents)
+
+## SEQ3000
+
+🔙 [Back to TOC](#-table-of-contents)
