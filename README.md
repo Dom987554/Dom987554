@@ -27,7 +27,7 @@
 ✅ Completed 
 [CALC2000 Repo](https://github.com/Dom987554/COBOL-Chapter1-Assignment)
 
-![Program Output](Assets/Calc2000Output.png)
+![Calc 2000 output](assets/Calc2000Output.png)
 
 🔙 [Back to Table of Contents](#-table-of-contents)
 
@@ -36,10 +36,10 @@
 ## UTIL2000
 
 ✅ Completed 
-[CALC2000 Repo](https://github.com/Dom987554/COBOL-Chapter2-Assignment)
+[UTIL2000 Repo](https://github.com/Dom987554/COBOL-Chapter2-Assignment)
 
-![Program Output1](Chapter2Assignment/assets/UTIL2000output1.png)
-![Program Output2](Chapter2Assignment/assets/UTIL2000output2.png)
+![util 2000 output 1](assets/UTIL2000output1.png)
+![util 2000 output 2](assets/UTIL2000output2.png)
 
 🔙 [Back to Table of Contents](#-table-of-contents)
 
@@ -47,10 +47,12 @@
 
 ## RPT2000
 
-![Program Output1](Chapter3Assignment/assets/RPT2000output.png)
 
 ✅ Completed 
-[CALC2000 Repo](https://github.com/Dom987554/COBOL-Chapter3-Assignment)
+[RPT2000 Repo](https://github.com/Dom987554/COBOL-Chapter3-Assignment)
+
+![RPT2000 output](assets/RPT2000output.png)
+
 
 🔙 [Back to Table of Contents](#-table-of-contents)
 
@@ -58,10 +60,12 @@
 
 ## RPT3000
 
-![Program Output](assets/RPT3000output.png)
+
 
 ✅ Completed 
-[CALC2000 Repo](https://github.com/Dom987554/COBOL-Chapter4-Assignment)
+[RPT3000 Repo](https://github.com/Dom987554/COBOL-Chapter4-Assignment)
+
+![RPT3000 output](assets/RPT3000output.png)
 
 🔙 [Back to Table of Contents](#-table-of-contents)
 
@@ -69,10 +73,12 @@
 
 ## RPT5000
 
-![Program Output](assets/RPT5000output.png)
+
 
 ✅ Completed 
-[CALC2000 Repo](https://github.com/Dom987554/COBOL-Chapter5-Assignment)
+[RPT5000 Repo](https://github.com/Dom987554/COBOL-Chapter5-Assignment)
+
+![RPT5000 output](assets/RPT5000output.png)
 
 🔙 [Back to Table of Contents](#-table-of-contents)
 
@@ -80,10 +86,10 @@
 
 ## RPT6000
 
-![Program Output1](assets/RPT6000output.png)
-
 ✅ Completed 
-[CALC2000 Repo](https://github.com/Dom987554/COBOL-Chapter6-10-11-Assignment)
+[RPT6000 Repo](https://github.com/Dom987554/COBOL-Chapter6-10-11-Assignment)
+
+![RPT6000](assets/RPT6000output.png)
 
 🔙 [Back to Table of Contents](#-table-of-contents)
 
@@ -92,6 +98,8 @@
 ## SEQ3000
 
 ✅ Completed 
-[CALC2000 Repo](https://github.com/Dom987554/COBOL-Chapter13-Assignment)
+[Seq3000 Repo](https://github.com/Dom987554/COBOL-Chapter13-Assignment)
+
+![Seq3000 output](assets/SEQ3000output.png)
 
 🔙 [Back to Table of Contents](#-table-of-contents)
