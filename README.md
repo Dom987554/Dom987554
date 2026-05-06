@@ -23,7 +23,7 @@ Welcome to my GitHub portfolio repository. I am currently studying Applied Mathe
 
 ---
 
-#Project Summaries
+# Project Summaries
 
 ## CALC2000
 
