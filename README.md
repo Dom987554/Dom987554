@@ -11,7 +11,7 @@
 ## 📚 Table of Contents
 
 | Project Summary | Tech | Description | Repo |
-|---------|------|----------|-------------|------|
+|---------|------|-------------|------|
 | [CALC2000](#calc2000) | COBOL & JCL | Calculates future investment values using compound growth and repeated doubling logic | [CALC2000](https://github.com/Dom987554/COBOL-Chapter1-Assignment) |
 | [UTIL2000](#util2000) | COBOL & JCL | Generates formatted monthly utility bills based on customer electricy usage with a tiered pricing system | [UTIL2000](https://github.com/Dom987554/COBOL-Chapter2-Assignment)|
 | [RPT2000](#rpt2000) | COBOL & JCL | Produces a YTD sales report with comparison to the previous year and percent change calculations | [RPT2000](https://github.com/Dom987554/COBOL-Chapter3-Assignment)|
