@@ -24,28 +24,74 @@
 
 ## CALC2000
 
-🔙 [Back to TOC](#-table-of-contents)
+✅ Completed 
+[CALC2000 Repo](https://github.com/Dom987554/COBOL-Chapter1-Assignment)
+
+![Program Output](Assets/Calc2000Output.png)
+
+🔙 [Back to Table of Contents](#-table-of-contents)
+
+---
 
 ## UTIL2000
 
-🔙 [Back to TOC](#-table-of-contents)
+✅ Completed 
+[CALC2000 Repo](https://github.com/Dom987554/COBOL-Chapter2-Assignment)
+
+![Program Output1](Chapter2Assignment/assets/UTIL2000output1.png)
+![Program Output2](Chapter2Assignment/assets/UTIL2000output2.png)
+
+🔙 [Back to Table of Contents](#-table-of-contents)
+
+---
 
 ## RPT2000
 
-🔙 [Back to TOC](#-table-of-contents)
+![Program Output1](Chapter3Assignment/assets/RPT2000output.png)
+
+✅ Completed 
+[CALC2000 Repo](https://github.com/Dom987554/COBOL-Chapter3-Assignment)
+
+🔙 [Back to Table of Contents](#-table-of-contents)
+
+---
 
 ## RPT3000
 
-🔙 [Back to TOC](#-table-of-contents)
+![Program Output](assets/RPT3000output.png)
+
+✅ Completed 
+[CALC2000 Repo](https://github.com/Dom987554/COBOL-Chapter4-Assignment)
+
+🔙 [Back to Table of Contents](#-table-of-contents)
+
+---
 
 ## RPT5000
 
-🔙 [Back to TOC](#-table-of-contents)
+![Program Output](assets/RPT5000output.png)
+
+✅ Completed 
+[CALC2000 Repo](https://github.com/Dom987554/COBOL-Chapter5-Assignment)
+
+🔙 [Back to Table of Contents](#-table-of-contents)
+
+---
 
 ## RPT6000
 
-🔙 [Back to TOC](#-table-of-contents)
+![Program Output1](assets/RPT6000output.png)
+
+✅ Completed 
+[CALC2000 Repo](https://github.com/Dom987554/COBOL-Chapter6-10-11-Assignment)
+
+🔙 [Back to Table of Contents](#-table-of-contents)
+
+---
 
 ## SEQ3000
 
-🔙 [Back to TOC](#-table-of-contents)
+✅ Completed 
+[CALC2000 Repo](https://github.com/Dom987554/COBOL-Chapter13-Assignment)
+
+🔙 [Back to Table of Contents](#-table-of-contents)
