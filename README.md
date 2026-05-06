@@ -27,7 +27,7 @@
 ✅ Completed 
 [CALC2000 Repo](https://github.com/Dom987554/COBOL-Chapter1-Assignment)
 
-![Calc 2000 output](assets/Calc2000Output.png)
+![Calc 2000 output](assets/CALC2000Output.png)
 
 🔙 [Back to Table of Contents](#-table-of-contents)
 
