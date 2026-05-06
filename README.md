@@ -27,6 +27,8 @@ Welcome to my GitHub portfolio repository. I am currently studying Applied Mathe
 
 ## CALC2000
 
+A small Cobol program that calculates the future value of an investment using a fixed annual interest rate over a fixed number of years. After the first calculation, it doubles the investment amount twice, recalculating the future value each time (so you get three future-value results total).
+
 **Key Concepts:** Arithmetic ops, Data Division handling, Output formatting, Future value calculation, Repeated doubling
 
 **Tech Stack:** ![Static Badge](https://img.shields.io/badge/COBOL-BLUE)
@@ -43,6 +45,8 @@ Welcome to my GitHub portfolio repository. I am currently studying Applied Mathe
 ---
 
 ## UTIL2000
+
+A small Cobol program that calculates and displays power bills for predefined customers based on thier electicity usage, using tiered pricing rates and a service fee. Outputing a detailed receipt with a tier breakdown of charges.
 
 **Key Concepts:** Arithmetic calculations, Conditional logic, Formatted Output, Multi-record Processing
 
@@ -63,6 +67,7 @@ Welcome to my GitHub portfolio repository. I am currently studying Applied Mathe
 
 ## RPT2000
 
+This COBOL program reads a customer master file and generates a formatted year-to-date sales report. It calculates and prints each customer’s sales change amount and percentage, along with overall grand totals and the report’s date, time, and page numbers.
 
 **Key Concepts:** Date and time acquisition, Percent Calculations File processing, YTD Comparrison
 
@@ -82,6 +87,8 @@ Welcome to my GitHub portfolio repository. I am currently studying Applied Mathe
 
 ## RPT3000
 
+This COBOL program reads a customer master file and generates a formatted year-to-date sales report. It calculates and prints each customer’s sales change amount and percentage, along with branch totals and overall grand totals, has a heading that includes the report’s date, time, and page numbers.
+
 **Key Concepts:** First-record switch, CUSTMAST data file, YTD change amount and Percent
 
 **Tech Stack:** ![Static Badge](https://img.shields.io/badge/COBOL-BLUE)
@@ -98,6 +105,8 @@ Welcome to my GitHub portfolio repository. I am currently studying Applied Mathe
 ---
 
 ## RPT5000
+
+This COBOL program reads a customer master file and generates a formatted year-to-date sales report. It calculates and prints each customer’s sales change amount and percentage, along with salesrep ,branch totals and overall grand totals, has a heading that includes the report’s date, time, and page numbers.
 
 **Key Concepts:** Two-Level control break, EVALUATE, 88-Level condition names, COMPUTE, ROUNDED, ON SIZE ERROR
 
@@ -116,6 +125,8 @@ Welcome to my GitHub portfolio repository. I am currently studying Applied Mathe
 
 ## RPT6000
 
+This COBOL program reads customer and sales representative master files and generates a formatted year-to-date sales report. It calculates and prints each customer’s sales change amount and percentage, along with salesrep ,branch totals and overall grand totals, has a heading that includes the report’s date, time, and page numbers.
+
 **Key Concepts:** REDEFINE, Edited Pic Clause, Table Processing with OCCURES and INDEXED BY, COPYLIB
 
 **Tech Stack:** ![Static Badge](https://img.shields.io/badge/COBOL-BLUE)
@@ -132,6 +143,8 @@ Welcome to my GitHub portfolio repository. I am currently studying Applied Mathe
 ---
 
 ## SEQ3000
+
+Each program manages employee records using a different file-processing approach. EMPIND01 creates an indexed employee file from a sequential file, EMPIND02 updates an indexed file using transactions (add, change, delete), and SEQ3000 performs similar updates using sequential file processing by merging a master file with a transaction file and producing updated records and error logs.
 
 **Key Concepts:** Multi-file i/o, Error Handling, Add, Delete, and Update Operations, Generates Updated Master File, VLSM File
 
